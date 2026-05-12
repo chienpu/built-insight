@@ -13,6 +13,7 @@ summary: "A Semantic Digital Thread framework integrating ontology-driven automa
 tags:
 - Semantic Digital Twin
 - Digital Thread
+- Digital Twin
 - Ontology
 - BIM
 - Carbon Management
