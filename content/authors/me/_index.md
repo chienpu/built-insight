@@ -45,10 +45,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:chienpu@nbuilt-insight.com
+    link: mailto:chienpu@built-insight.com
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/chienpu/
+    link: https://www.linkedin.com/in/chienpu
   - icon: github
     icon_pack: fab
     link: https://github.com/chienpu
