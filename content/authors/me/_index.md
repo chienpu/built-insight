@@ -54,7 +54,7 @@ social:
     link: https://github.com/chienpu
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/
+    link: [https://scholar.google.com/](https://scholar.google.com/citations?user=7R8EI5UAAAAJ&hl=en)
 
 # Highlight the author in author lists?
 highlight_name: true
