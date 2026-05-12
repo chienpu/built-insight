@@ -43,41 +43,53 @@ interests:
 education:
   - degree: PhD in Civil Engineering
     institution: National Taiwan University
-    start: 2019-09-01
-    end: 2025-06-30
+    end: 2026
   - degree: MArch in Architecture
     institution: National Yang Ming Chiao Tung University
-    start: 2002-09-01
-    end: 2004-06-30
+    end: 2004
   - degree: BArch in Architecture
     institution: National Cheng Kung University
-    start: 1997-09-01
-    end: 2001-06-30
+    end: 2000
 experience:
   - role: Postdoctoral Researcher
     org: National Taiwan University, CAE Lab
+    start: 2026-01-01
+  - role: Visiting Research Scholar (NSTC)
+    org: University of Houston, USA
     start: 2025-01-01
-  - role: Architect
-    org: Industry Practice
-    start: 2004-01-01
-    end: 2019-08-31
-    summary: |
-      20 years of professional experience in architecture and construction,
-      including large-scale infrastructure and semiconductor fabrication facilities.
+    end: 2025-12-31
+  - role: Senior Engineer
+    org: Taiwan Semiconductor Manufacturing Company (TSMC)
+    start: 2022-08-01
+    end: 2023-03-31
+  - role: Registered Architect
+    org: Design Injoy Architects & Associates
+    start: 2013-10-01
+    end: 2019-11-30
+  - role: Teaching Assistant — Engineering Graphics
+    org: National Taiwan University
+    start: 2020-09-01
+    end: 2021-06-30
 skills:
-  - name: Research
+  - name: Research & Informatics
     items:
       - label: Semantic Web & Ontology
-        level: 5
       - label: Knowledge Graph (Neo4j)
-        level: 5
-      - label: BIM (Revit, IFC)
-        level: 5
-  - name: Programming
-    items:
+      - label: BIM (Revit, IFC, OpenBIM)
+      - label: Digital Twin Frameworks
+      - label: Workflow Automation (n8n)
+      - label: SPARQL / Cypher
       - label: Python
-        level: 4
-      - label: SPARQL/Cypher
-        level: 4
-      - label: n8n Workflow Automation
-        level: 4
+  - name: Construction & Engineering
+    items:
+      - label: Construction Management
+      - label: Facility Management
+      - label: Engineering Governance
+      - label: Cost Estimation
+      - label: Building Regulations
+  - name: Certifications
+    items:
+      - label: Registered Architect (Taiwan)
+      - label: BSI Certified BIM Professional
+      - label: Community Architect, Taipei City
+      - label: Public Building Safety Inspector
