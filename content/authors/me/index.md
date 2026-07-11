@@ -62,10 +62,10 @@ highlight_name: true
 
 Chien-Pu (Nora) Huang is an Assistant Professor in the Department of Civil Engineering at National Taipei University of Technology (Taipei Tech). With a foundation spanning architectural practice, high-tech facility engineering, and academic research, her work bridges the gap between domain expertise and intelligent automation in the built environment.
 
-  Her research focuses on semantic digital twin frameworks — developing graph-native, ontology-driven architectures that transform heterogeneous facility data and management logic into traceable, executable actions. Core contributions include the Semantic Action Management methodology and the TIAA framework, with applications in predictive maintenance, lifecycle carbon governance, and AI-agent-based construction automation.
+Her research focuses on semantic digital twin frameworks — developing graph-native, ontology-driven architectures that transform heterogeneous facility data and management logic into traceable, executable actions. Core contributions include the Semantic Action Management methodology and the TIAA framework, with applications in predictive maintenance, lifecycle carbon governance, and AI-agent-based construction automation.
 
-  Prior to academia, she practiced as a licensed architect in Taipei and served as a Senior Engineer at TSMC, where firsthand experience with the information complexity of large-scale built environments shaped her research agenda. She completed her Ph.D. at National Taiwan University under Prof. Shang-Hsien Hsieh, and was a Visiting Research Scholar at the University of Houston under the NSTC Study Abroad Fellowship.
+Prior to academia, she practiced as a licensed architect in Taipei and served as a Senior Engineer at TSMC, where firsthand experience with the information complexity of large-scale built environments shaped her research agenda. She completed her Ph.D. at National Taiwan University under Prof. Shang-Hsien Hsieh, and was a Visiting Research Scholar at the University of Houston under the NSTC Study Abroad Fellowship.
 
-  Her work has been published in *Automation in Construction* and *Advanced Engineering Informatics*, and recognized with Best Paper Awards at ISARC 2026 and the 29th Symposium on Construction Engineering and Management.
+Her work has been published in *Automation in Construction* and *Advanced Engineering Informatics*, and recognized with Best Paper Awards at ISARC 2026 and the 29th Symposium on Construction Engineering and Management.
 
 
