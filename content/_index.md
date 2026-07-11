@@ -38,11 +38,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My research addresses the **semantic-execution gap** in smart built environments — the divide between what facility data *means* and what systems can *automatically do* with it.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I develop graph-native, ontology-driven frameworks that transform heterogeneous facility data and management logic into traceable, executable actions. Core contributions include the **Semantic Action Management** methodology and the **TIAA** (Trigger–Inference–Assignment–Action) framework, validated across predictive maintenance, lifecycle carbon governance, and AI-agent-based construction automation.
 
-        Please reach out to collaborate 😃
+        My work draws on 20 years of experience spanning architectural practice, high-tech facility engineering at TSMC, and academic research — bridging domain knowledge and intelligent systems in ways that are both theoretically rigorous and practically deployable.
+
+        **Current focus:** Plug-and-play semantic execution architectures for reusable cross-domain digital twin automation.
     design:
       columns: '1'
   - block: collection
