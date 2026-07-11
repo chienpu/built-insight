@@ -21,7 +21,7 @@ links:
   - type: url
     url: https://www.i3ce2026.com/
 image:
-  caption: 'LLM-Assisted Semantic Digital Twin Framework'
+  caption: ''
   focal_point: "Center"
   preview_only: false
 projects: []
