@@ -17,9 +17,11 @@ tags:
 - Digital Twin
 - Knowledge Graph
 featured: true
+awards:
+- "🏆 Best Paper Award — ISARC 2026"
 links:
-  - type: url
-    url: https://icccbe2026.org/
+  - name: "🏆 Best Paper Award"
+    url: ""
 image:
   caption: ''
   focal_point: ""
@@ -27,3 +29,5 @@ image:
 projects: []
 slides: ""
 ---
+
+🏆 **Best Paper Award** — 43rd International Symposium on Automation and Robotics in Construction (ISARC 2026), Singapore.
