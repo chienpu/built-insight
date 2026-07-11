@@ -12,18 +12,15 @@ postnominals:
   - PhD
 status:
   icon: "🏗️"
-role: Postdoctoral Researcher
+role: Assistant Professor
 bio: |
-  Chien-Pu (Nora) Huang is a Postdoctoral Researcher at the Computer-Aided 
-  Engineering Lab, National Taiwan University. Her research centers on semantic 
-  digital twin frameworks for smart built environments, integrating ontology-driven 
-  automation, knowledge graphs, and BIM for intelligent facility operations.
+  Assistant Professor at Taipei Tech (NTUT) specializing in semantic digital twin frameworks, graph-native knowledge architectures, and AI-driven automation for smart built environments. Licensed architect with industry experience spanning high-tech facility engineering and construction management.
 affiliations:
-  - name: National Taiwan University
-    url: https://www.ntu.edu.tw/
+  - name: National Taipei University of Technology (Taipei Tech)
+    url: https://ce.ntut.edu.tw/
 links:
   - icon: at-symbol
-    url: mailto:chienpu@built-insight.com
+    url: mailto:chienpu@gmail.com
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/chienpu/
@@ -35,25 +32,29 @@ links:
     url: https://orcid.org/0009-0000-2364-6080
     label: ORCID
 interests:
-  - Semantic Digital Twin
-  - Building Information Modeling (BIM)
+  - Engineering Data Governance
+  - Semantic Event-Driven Digital Twins
+  - Lifecycle Carbon Governance
+  - Smart Construction Process Automation
   - Knowledge Graph & Ontology
-  - Intelligent Facility Management
-  - Construction Informatics
 education:
   - degree: PhD in Civil Engineering
     institution: National Taiwan University
     end: 2026
   - degree: MArch in Architecture
-    institution: National Yang Ming Chiao Tung University
-    end: 2004
+    institution: National Chiao Tung University (now NYCU)
+    end: 2003
   - degree: BArch in Architecture
     institution: National Cheng Kung University
     end: 2000
 experience:
+  - role: Assistant Professor
+    org: National Taipei University of Technology (Taipei Tech)
+    start: 2026-08-01
   - role: Postdoctoral Researcher
     org: National Taiwan University, CAE Lab
-    start: 2026-01-01
+    start: 2026-02-01
+    end: 2026-07-31
   - role: Visiting Research Scholar (NSTC)
     org: University of Houston, USA
     start: 2025-01-01
