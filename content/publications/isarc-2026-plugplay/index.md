@@ -21,7 +21,7 @@ awards:
 - "🏆 Best Paper Award — ISARC 2026"
 links:
   - name: "🏆 Best Paper Award"
-    url: ""
+    url: "https://www.iaarc.org/isarc-2026"
 image:
   caption: ''
   focal_point: ""
