@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Civil Engineering (Computer-Aided Engineering)
       institution: National Taiwan University
-      year: 2025
+      year: 2026
     - course: MArch in Architecture
       institution: National Chiao Tung University (now NYCU)
       year: 2004
