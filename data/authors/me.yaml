@@ -14,9 +14,9 @@ status:
   icon: "🏗️"
 role: Assistant Professor
 bio: |
-  Assistant Professor at Taipei Tech (NTUT) specializing in semantic digital twin frameworks, graph-native knowledge architectures, and AI-driven automation for smart built environments. Licensed architect with industry experience spanning high-tech facility engineering and construction management.
+  Assistant Professor at National Taipei University of Technology (Taipei Tech, NTUT) specializing in semantic digital twin frameworks, graph-native knowledge architectures, and AI-driven automation for smart built environments. Licensed architect with industry experience spanning high-tech facility engineering and construction management.
 affiliations:
-  - name: National Taipei University of Technology (Taipei Tech)
+  - name: Taipei Tech (NTUT)
     url: https://ce.ntut.edu.tw/
 links:
   - icon: at-symbol
