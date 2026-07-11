@@ -35,7 +35,7 @@ education:
       institution: National Taiwan University
       year: 2025
     - course: MArch in Architecture
-      institution: National Yang Ming Chiao Tung University
+      institution: National Chiao Tung University (now NYCU)
       year: 2004
     - course: BArch in Architecture
       institution: National Cheng Kung University
