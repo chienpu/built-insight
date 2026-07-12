@@ -2,7 +2,7 @@
 linkTitle: Engineering Data Governance
 title: "Engineering Data Governance for Sustainable Strategy"
 subtitle: "工程資料治理永續策略"
-date: 2027-09-01
+date: 2026-07-12
 type: docs
 
 image:
