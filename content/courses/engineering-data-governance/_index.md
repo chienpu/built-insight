@@ -5,6 +5,11 @@ subtitle: "工程資料治理永續策略"
 date: 2027-09-01
 type: docs
 
+image:
+  filename: featured.jpg
+  caption: ""
+  focal_point: Smart
+
 tags:
   - Data Governance
   - Sustainability
