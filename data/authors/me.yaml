@@ -63,14 +63,14 @@ experience:
     org: Taiwan Semiconductor Manufacturing Company (TSMC)
     start: 2022-08-01
     end: 2023-03-31
-  - role: Registered Architect
-    org: Design Injoy Architects & Associates
-    start: 2013-10-01
-    end: 2019-11-30
   - role: Teaching Assistant — Engineering Graphics
     org: National Taiwan University
     start: 2020-09-01
     end: 2021-06-30
+  - role: Registered Architect
+    org: Design Injoy Architects & Associates
+    start: 2013-10-01
+    end: 2019-11-30
 skills:
   - name: Research & Informatics
     items:
@@ -94,3 +94,24 @@ skills:
       - label: BSI Certified BIM Professional
       - label: Community Architect, Taipei City
       - label: Public Building Safety Inspector
+awards:
+  - title: Best Paper Award
+    date: 2026-06-23
+    awarder: ISARC 2026 (43rd International Symposium on Automation and Robotics in Construction)
+  - title: College of Engineering Dean's Award (工程院長獎)
+    date: 2025-12-01
+    awarder: National Taiwan University
+  - title: Best Paper Award
+    date: 2025-11-01
+    awarder: 29th Symposium on Construction Engineering and Management
+  - title: NSTC Graduate Students Study Abroad Fellowship (千里馬計畫)
+    date: 2025-01-01
+    awarder: National Science and Technology Council (NSTC)
+
+languages:
+  - name: Mandarin Chinese
+    percent: 100
+  - name: English
+    percent: 80
+  - name: Taiwanese
+    percent: 70
