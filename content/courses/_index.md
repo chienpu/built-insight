@@ -29,7 +29,7 @@ sections:
         kinds:
           - section
     design:
-      view: article-grid
+      view: list
       show_read_time: false
       show_date: false
       show_read_more: false
