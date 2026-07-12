@@ -15,6 +15,15 @@ sections:
     id: courses
     content:
       title: Courses
+      text: |-
+        These two graduate courses trace a single thread: how engineering data
+        becomes trustworthy evidence, and how that evidence flows to the right
+        person, in the right format, at the right time.
+
+        Drawing on 20 years of AEC practice and ongoing research in semantic
+        digital twins, both courses combine case-based instruction with a
+        term-long capstone project — students leave with a governance
+        architecture or integration plan they can defend, not just a grade.
       filters:
         tag: Course
         kinds:
