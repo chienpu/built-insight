@@ -11,11 +11,9 @@ cascade:
       show_breadcrumb: true
 
 sections:
-  - block: collection
-    id: courses
+  - block: markdown
     content:
       title: Courses
-      page_type: docs
       text: |-
         These two graduate courses trace a single thread: how engineering data
         becomes trustworthy evidence, and how that evidence flows to the right
@@ -25,15 +23,9 @@ sections:
         digital twins, both courses combine case-based instruction with a
         term-long capstone project — students leave with a governance
         architecture or integration plan they can defend, not just a grade.
-      filters:
-        folders:
-          - courses
-        kinds:
-          - section
-    design:
-      view: date-title-summary
-      show_read_time: false
-      show_date: false
-      show_read_more: false
-      columns: 1
+
+        {{< cards >}}
+          {{< card url="engineering-data-governance" title="Engineering Data Governance for Sustainable Strategy" subtitle="工程資料治理永續策略 · Fall · 3 Credits" icon="link" >}}
+          {{< card url="smart-construction-flow-integration" title="Smart Construction Flow Integration Practice" subtitle="智慧營建流程整合實務 · Spring · 3 Credits" icon="cube-transparent" >}}
+        {{< /cards >}}
 ---
