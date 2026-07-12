@@ -2,7 +2,7 @@
 linkTitle: Smart Construction Flow Integration
 title: "Smart Construction Flow Integration Practice"
 subtitle: "智慧營建流程整合實務"
-date: 2028-02-01
+date: 2026-07-12
 type: docs
 
 image:
