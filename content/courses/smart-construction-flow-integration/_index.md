@@ -83,6 +83,3 @@ By the end of this course, students will be able to:
 
 > [!NOTE]
 > This course is offered as part of the graduate curriculum at NTUT Civil Engineering, under the BuiltInsight Lab research program in semantic digital twins and automation.
-
-> [!NOTE]
-> This course is offered as part of the graduate curriculum at NTUT Civil Engineering, under the BuiltInsight Lab research program in semantic digital twins and automation.
