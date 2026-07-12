@@ -5,6 +5,11 @@ subtitle: "智慧營建流程整合實務"
 date: 2028-02-01
 type: docs
 
+image:
+  filename: featured.jpg
+  caption: ""
+  focal_point: Smart
+
 tags:
   - Digital Twin
   - Automation
@@ -75,6 +80,9 @@ By the end of this course, students will be able to:
 | **Level** | Graduate |
 | **Language** | English |
 | **Format** | Studio-style practicum + capstone integration project |
+
+> [!NOTE]
+> This course is offered as part of the graduate curriculum at NTUT Civil Engineering, under the BuiltInsight Lab research program in semantic digital twins and automation.
 
 > [!NOTE]
 > This course is offered as part of the graduate curriculum at NTUT Civil Engineering, under the BuiltInsight Lab research program in semantic digital twins and automation.
