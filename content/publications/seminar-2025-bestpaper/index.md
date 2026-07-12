@@ -1,5 +1,5 @@
 ---
-title: "A Study on Information Integration Methods for Building Carbon Accounting and Management Using Semantic-Oriented Digital Twin Technology"
+title: "Semantic Digital Twin Technologies for Integrating Heterogeneous Data in Building Carbon Management"
 authors:
 - me
 - Shang-Hsien Hsieh

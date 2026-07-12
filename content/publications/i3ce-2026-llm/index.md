@@ -16,13 +16,13 @@ tags:
 - Facility Management
 - Explainability
 - Auditability
-featured: false
+featured: true
 links:
   - type: url
     url: https://www.i3ce2026.com/
 image:
   caption: ''
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 projects: []
 slides: ""
