@@ -15,6 +15,7 @@ sections:
     id: courses
     content:
       title: Courses
+      page_type: docs
       text: |-
         These two graduate courses trace a single thread: how engineering data
         becomes trustworthy evidence, and how that evidence flows to the right
@@ -25,11 +26,12 @@ sections:
         term-long capstone project — students leave with a governance
         architecture or integration plan they can defend, not just a grade.
       filters:
-        tag: Course
+        folders:
+          - courses
         kinds:
           - section
     design:
-      view: article-grid
+      view: date-title-summary
       show_read_time: false
       show_date: false
       show_read_more: false
